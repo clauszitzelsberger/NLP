@@ -1,0 +1,7 @@
+.env
+.idea/
+*.pyc
+.vscode/
+.ipynb_checkpoints/
+__pycache__
+corpora
